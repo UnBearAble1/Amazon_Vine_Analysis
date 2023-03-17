@@ -9,9 +9,11 @@ This analysis took publically available reviews for amazon products and used RDS
 To have sufficient data to make the determination of whether there is a bias in the results, the reviews were broken down into two dataframes, one where the results were part of the vine service and one where they were not. The tables were used to determine the total number of reviews, the total number of five star reviews, and then the percentage of reviews that were five star reviews.
 
 The results for those reviews that are part of the vine program are as follows:
+
 ![vine_reviews](https://github.com/UnBearAble1/Amazon_Vine_Analysis/blob/main/Vine%20Reviews.png)
 
 The results for those reviews that are not part of the vine program are as follows:
+
 ![non-vine_reviews](https://github.com/UnBearAble1/Amazon_Vine_Analysis/blob/main/Non-Vine%20Reviews.png)
 
 ## Summary
